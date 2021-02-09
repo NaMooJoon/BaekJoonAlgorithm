@@ -7,4 +7,3 @@ Site 		-> https://www.acmicpc.net/
 
 Curiculum	-> BeakJoonCurriculum.xlsx
 
-My email	-> jjag1015@naver.com
