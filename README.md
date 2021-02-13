@@ -10,7 +10,7 @@
 ### 입출력
 <details>
     <summary>자세히 보기</summary>
-|    | *문제번호*| *문제*              |
+| *백준*   | *문제번호*| *문제*              |
 |:--:|:-----:|:-----------------------:|
 |  1 |  [1000](https://www.acmicpc.net/problem/1000) |           A+B           |
 |  2 |  [1924](https://www.acmicpc.net/problem/1924) |          2007년         |
@@ -41,12 +41,13 @@
 | 27 | [11719] (https://www.acmicpc.net/problem/11719)|    그대로   출력하기2   |
 | 28 | [11720] (https://www.acmicpc.net/problem/11720)|       숫자의   합       |
 | 29 | [11721] (https://www.acmicpc.net/problem/11721)| 열   개씩 끊어 출력하기 |
+
 </details>
 
 ### DP
 <details>
     <summary>자세히 보기</summary>
-|    | *문제번호*| *문제*              |
+| *백준* | *문제번호*| *문제*              |
 |:--:|:-----:|:----------------------------:|
 |  1 |  [1463] (https://www.acmicpc.net/problem/1463)|           1로만들기          |
 |  2 |  [1699] (https://www.acmicpc.net/problem/1699)|          제곱수의합          |
@@ -69,12 +70,13 @@
 | 19 | [11722] (https://www.acmicpc.net/problem/11722)| 가장   긴 감소하는 부분 수열 |
 | 20 | [11726] (https://www.acmicpc.net/problem/11726)|             2타일            |
 | 21 | [11727] (https://www.acmicpc.net/problem/11727)|             타일             |
+
 </details>
 
 ### DP2
 <details>
     <summary>자세히 보기</summary>
-|    | *문제번호*| *문제*              |
+| *백준* | *문제번호*| *문제*              |
 |:--:|:-----:|:----------------------:|
 |  1 |  [2751] (https://www.acmicpc.net/problem/2751) |      수열-시간초과     |
 |  2 |  [1158] (https://www.acmicpc.net/problem/1158)|        요세푸스        |
@@ -117,4 +119,5 @@
 | 39 | [11653] (https://www.acmicpc.net/problem/11653)|       소인수분해       |
 | 40 | [11655] (https://www.acmicpc.net/problem/11655)|          ROT13         |
 | 41 | [11656] (https://www.acmicpc.net/problem/11656)|       접미사배열       |
+
 </details>
