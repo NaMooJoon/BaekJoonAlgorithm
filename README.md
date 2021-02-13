@@ -14,9 +14,9 @@
 | *백준*   | *문제번호*| *문제*              |
 |:--:|:------:|:-----------------------:| 
 |  1 |  [1000](https://www.acmicpc.net/problem/1000) |           [A+B](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob1000.c)           |
-|  2 |  [1924](https://www.acmicpc.net/problem/1924) |          [2007년]((https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob1924.c))         |
-|  3 |  [2438](https://www.acmicpc.net/problem/2438) |         [별찍기-1]((https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2438.c))        |
-|  4 |  [2439](https://www.acmicpc.net/problem/2439) |         [별찍기-2]((https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2439.c))        |
+|  2 |  [1924](https://www.acmicpc.net/problem/1924) |          [2007년](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob1924.c)         |
+|  3 |  [2438](https://www.acmicpc.net/problem/2438) |         [별찍기-1](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2438.c)        |
+|  4 |  [2439](https://www.acmicpc.net/problem/2439) |         [별찍기-2](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2439.c)       |
 |  5 |  [2440](https://www.acmicpc.net/problem/2440) |         별찍기-3        |
 |  6 |  [2441](https://www.acmicpc.net/problem/2441) |         별찍기-4        |
 |  7 |  [2442](https://www.acmicpc.net/problem/2442) |         별찍기-5        |
