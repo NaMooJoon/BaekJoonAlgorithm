@@ -1,24 +1,14 @@
-# prob2438
-
-### problem / 별 찍기 - 1
-![ex_screenshot](../../img/prob2438.png)
-
-
-
-
-### Source
-~~~c
-
 #include <stdio.h>
 
 int main(void) {
-    int N;          // 별의 size 
+    int N;
     int i, j;
 
     scanf("%d", &N);
-    
-    // 별 찍기
+
     for(i = 0; i < N; i++) {
+        for(j = 0; j < (N - (i+1)); j++) 
+            putchar(' ');
         for(j = 0; j < (i+1); j++)
             putchar('*');
         putchar('\n');
@@ -27,5 +17,3 @@ int main(void) {
 
     return 0;
 }
-
-~~~
