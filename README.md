@@ -22,7 +22,7 @@
 |  7 |  [2442](https://www.acmicpc.net/problem/2442) |         [별찍기-5](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2442.c)        |
 |  8 |  [2445](https://www.acmicpc.net/problem/2445)|         [별찍기-8](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2445.c)        |
 |  9 |  [2446](https://www.acmicpc.net/problem/2446) |         [별찍기-9](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2446.c)        |
-| 10 |  [2552](https://www.acmicpc.net/problem/2552) |         [전구숫자](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2552.c)        |
+| 10 |  [2552](https://www.acmicpc.net/problem/2552) |         전구숫자        |
 | 11 |  [2557](https://www.acmicpc.net/problem/2557)|        [Hello World](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2557.c)      |
 | 12 |  [2558](https://www.acmicpc.net/problem/2558)|        [A+B - 2](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2558.c)        |
 | 13 |  [2739](https://www.acmicpc.net/problem/2739)|          [구구단](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2739.c)         |
