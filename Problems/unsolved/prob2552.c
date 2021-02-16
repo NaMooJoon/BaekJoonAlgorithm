@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-// 파마리터 num을 주어진 bulb로 bulb number을 만들 수 있는지 없는지 반환하는 문제
+// 파마리터 num을 주어진 bulb로 전구숫자를 만들 수 있는지 없는지 반환하는 문제
 int is_bulbNumber(int* bulb, int bulb_N, int num, int* always_light_bulb) {
     int* light_bulb;
     light_bulb = (int*)malloc(sizeof(int) * bulb_N);
@@ -14,11 +14,23 @@ int is_bulbNumber(int* bulb, int bulb_N, int num, int* always_light_bulb) {
         light_bulb[i] = num % 2;
         num = num / 2;
     }
-    
 
+
+    /*
+        <확인방법>
+        bulb하나하나 해당 num의 이진수에서 불이 켜질 수 있는지 확인하는 방법.
+
+        1. bulb를 B^1부터 B^N까지 확인하는데
+            1-1. 만약 어떠한 조건에서도 항상 켜질 수 있는 bulb이면 확인할 필요 x
+                1-2. B^i가 num의 이진수에서 1이 아니라면 확인할 필요 x
+                    1-3. B^i 이후로 있는 bulb중 B^i가 가리키는 스위치보다 왼쪽에 있으면 false 반환
+                    1-4. 1.로 돌아가기
+            
+        윗 과정에서 해당사항없다면 true반환
+    */
     for(int i = 0; i < bulb_N; i++)                    // B^1부터 시작
-        if(!always_light_bulb[i]){                      // 항상 true인 bulb가 아니라면 확인을 진행.
-            if(light_bulb[i]){                          // 해당 bulb에 불이 들어온다면
+        if(!always_light_bulb[i])                      // 항상 true인 bulb가 아니라면 확인을 진행.
+            if(light_bulb[i])                          // 해당 bulb에 불이 들어온다면
                 for(int j = i + 1; j < bulb_N; j++)    // 해당 bulb보다 index가 큰 불켜진 bulb들과 엮이는지 확인
                     if(light_bulb[j]) 
                         if(bulb[i] > bulb[j])
@@ -27,11 +39,11 @@ int is_bulbNumber(int* bulb, int bulb_N, int num, int* always_light_bulb) {
     
     free(light_bulb);
 
-    return 1;                                       // true
+    return 1;                                           // true
 }
 
 int main(void) {
-    int bulb_N;                 // bulb의 개수
+    int bulb_N;              
     int* bulb;                  
     int* always_light_bulb;
     int K;
@@ -45,7 +57,7 @@ int main(void) {
         scanf("%d", &bulb[i]);
     
     scanf("%d", &K);
-    // 항상 불이 켜질 수 있는 bulb 찾기
+    // 어떠한 조건에서도 불 키는데 상관이 없는 bulb 찾기
     for(int i = 0; i < bulb_N; i++) {               // B^1부터 시작
         count = 0;
         for(int j = 0; j < i; j++) {                // 해당 bulb보다 index가 작은 불켜진 bulb들과 엮이는지 확인
@@ -68,9 +80,9 @@ int main(void) {
 
 
     // 1부터 count해서 K번째 해당될때까지 is_bulbNumber(bulb, bubl_N, i)
-    int max = pow(2, bulb_N);
+    int length = pow(2, bulb_N);
     count = 0;
-    for(int i = 0; i < max; i++) {          // 이진수 0000부터 1111까지 확인
+    for(int i = 0; i < length; i++) {          // 이진수 0000부터 1111까지 확인
         if(is_bulbNumber(bulb, bulb_N, i, always_light_bulb))  // 만약 bulb number가 성립된다면
             count ++;
         if(count == K) {                    // K번째 성립된 bulbnumber을 출력
@@ -85,4 +97,5 @@ int main(void) {
     free(always_light_bulb);
 
     return 0;
+
 }
