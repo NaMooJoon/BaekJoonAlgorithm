@@ -29,10 +29,10 @@
 | 14 |  [2741](https://www.acmicpc.net/problem/2741)|          [N찍기](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2741.c)          |
 | 15 |  [2742](https://www.acmicpc.net/problem/2742)|         [기찍 N](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob2742.c)        |
 | 16 |  [8393](https://www.acmicpc.net/problem/8393)|            [합](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob8393.c)           |
-| 17 | [10818](https://www.acmicpc.net/problem/10818)|       최소,   최대      |
-| 18 | [10950](https://www.acmicpc.net/problem/10950)|          A+B - 3        |
-| 19 | [10951](https://www.acmicpc.net/problem/10951)|          A+B - 4        |
-| 20 | [10952](https://www.acmicpc.net/problem/10952)|          A+B - 5        |
+| 17 | [10818](https://www.acmicpc.net/problem/10818)|       [최소,   최대](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10818.c)      |
+| 18 | [10950](https://www.acmicpc.net/problem/10950)|          [A+B - 3](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10950.c)        |
+| 19 | [10951](https://www.acmicpc.net/problem/10951)|          [A+B - 4](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10951.c)        |
+| 20 | [10952](https://www.acmicpc.net/problem/10952)|          [A+B - 5](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10952.c)        |
 | 21 | [10953](https://www.acmicpc.net/problem/10953)|          A+B - 6        |
 | 22 | [10991](https://www.acmicpc.net/problem/10991)|      별찍기   - 16      |
 | 23 | [10992](https://www.acmicpc.net/problem/10992)|      별찍기   - 17      |
