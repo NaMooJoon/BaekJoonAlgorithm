@@ -12,9 +12,9 @@ int main(void) {
 
     for(int i = 0; i < N; i++) {
         total = 0;      // 답을 출력할 변수
-        
+
         scanf("%s", str);
-        getchar();      // \n 문자
+        getchar();      // \n 문자 받아들이기
 
         str_len = strlen(str);
         for(int j = 0; j < str_len; j++) 
