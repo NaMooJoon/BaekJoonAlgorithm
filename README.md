@@ -36,10 +36,10 @@
 | 21 | [10953](https://www.acmicpc.net/problem/10953)|          [A+B - 6](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10953.c)        |
 | 22 | [10991](https://www.acmicpc.net/problem/10991)|      [별찍기   - 16](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10991.c)      |
 | 23 | [10992](https://www.acmicpc.net/problem/10992)|      [별찍기   - 17](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10992.c)      |
-| 24 | [11021](https://www.acmicpc.net/problem/11021)|          A+B - 7        |
-| 25 | [11022](https://www.acmicpc.net/problem/11022)|          A+B - 8        |
-| 26 | [11718](https://www.acmicpc.net/problem/11718)|    그대로   출력하기    |
-| 27 | [11719](https://www.acmicpc.net/problem/11719)|    그대로   출력하기2   |
+| 24 | [11021](https://www.acmicpc.net/problem/11021)|          [A+B - 7](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11021.c)        |
+| 25 | [11022](https://www.acmicpc.net/problem/11022)|          [A+B - 8](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11022.c)        |
+| 26 | [11718](https://www.acmicpc.net/problem/11718)|    [그대로   출력하기](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11718.c)    |
+| 27 | [11719](https://www.acmicpc.net/problem/11719)|    [그대로   출력하기2](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11719.c)    |
 | 28 | [11720](https://www.acmicpc.net/problem/11720)|       숫자의   합       |
 | 29 | [11721](https://www.acmicpc.net/problem/11721)| 열   개씩 끊어 출력하기 |
 
