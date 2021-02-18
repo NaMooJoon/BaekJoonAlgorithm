@@ -33,9 +33,9 @@
 | 18 | [10950](https://www.acmicpc.net/problem/10950)|          [A+B - 3](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10950.c)        |
 | 19 | [10951](https://www.acmicpc.net/problem/10951)|          [A+B - 4](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10951.c)        |
 | 20 | [10952](https://www.acmicpc.net/problem/10952)|          [A+B - 5](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10952.c)        |
-| 21 | [10953](https://www.acmicpc.net/problem/10953)|          A+B - 6        |
-| 22 | [10991](https://www.acmicpc.net/problem/10991)|      별찍기   - 16      |
-| 23 | [10992](https://www.acmicpc.net/problem/10992)|      별찍기   - 17      |
+| 21 | [10953](https://www.acmicpc.net/problem/10953)|          [A+B - 6](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10953.c)        |
+| 22 | [10991](https://www.acmicpc.net/problem/10991)|      [별찍기   - 16](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10991.c)      |
+| 23 | [10992](https://www.acmicpc.net/problem/10992)|      [별찍기   - 17](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob10992.c)      |
 | 24 | [11021](https://www.acmicpc.net/problem/11021)|          A+B - 7        |
 | 25 | [11022](https://www.acmicpc.net/problem/11022)|          A+B - 8        |
 | 26 | [11718](https://www.acmicpc.net/problem/11718)|    그대로   출력하기    |
