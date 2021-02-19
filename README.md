@@ -40,8 +40,8 @@
 | 25 | [11022](https://www.acmicpc.net/problem/11022)|          [A+B - 8](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11022.c)        |
 | 26 | [11718](https://www.acmicpc.net/problem/11718)|    [그대로   출력하기](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11718.c)    |
 | 27 | [11719](https://www.acmicpc.net/problem/11719)|    [그대로   출력하기2](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11719.c)    |
-| 28 | [11720](https://www.acmicpc.net/problem/11720)|       숫자의   합       |
-| 29 | [11721](https://www.acmicpc.net/problem/11721)| 열   개씩 끊어 출력하기 |
+| 28 | [11720](https://www.acmicpc.net/problem/11720)|       [숫자의   합](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11720.c)       |
+| 29 | [11721](https://www.acmicpc.net/problem/11721)| [열개씩 끊어 출력하기](https://github.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/prob11721.c) |
 
 </details>
 
