@@ -52,7 +52,7 @@
 | *백준* | *문제번호*| *문제*              |
 |:--:|:-----:|:----------------------------:|
 |  0 |  [2748](https://www.acmicpc.net/problem/2748)|          [피보나치 수 2](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2748.c)        |
-|  1 |  [1463](https://www.acmicpc.net/problem/1463)|           1로만들기          |
+|  1 |  [1463](https://www.acmicpc.net/problem/1463)|           [1로만들기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1463.c)          |
 |  2 |  [1699](https://www.acmicpc.net/problem/1699)|          제곱수의합          |
 |  3 |  [1912](https://www.acmicpc.net/problem/1912)|            연속합            |
 |  4 |  [2011](https://www.acmicpc.net/problem/2011)|           암호코드           |
