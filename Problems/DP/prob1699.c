@@ -4,6 +4,7 @@
 
 int memo[100000];
 
+
 int minValue(int a, int b) {
     return (a < b)? a : b;
 }
