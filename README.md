@@ -54,7 +54,7 @@
 |  0 |  [2748](https://www.acmicpc.net/problem/2748)|          [피보나치 수 2](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2748.c)        |
 |  1 |  [1463](https://www.acmicpc.net/problem/1463)|           [1로만들기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1463.c)          |
 |  2 |  [1699](https://www.acmicpc.net/problem/1699)|          [제곱수의합](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1699.c)          |
-|  3 |  [1912](https://www.acmicpc.net/problem/1912)|            연속합            |
+|  3 |  [1912](https://www.acmicpc.net/problem/1912)|            [연속합](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1912.c)            |
 |  4 |  [2011](https://www.acmicpc.net/problem/2011)|           암호코드           |
 |  5 |  [2133](https://www.acmicpc.net/problem/2133)|          타일채우기          |
 |  6 |  [2156](https://www.acmicpc.net/problem/2156)|          포도주시식          |
@@ -200,7 +200,7 @@
 
 </details>
 
-### 
+### 완전탐색
 <details>
     <summary>자세히 보기</summary>
 
@@ -233,4 +233,14 @@
 | 25 |  [9095](https://www.acmicpc.net/problem/9095) |   1,2,3   더하기   |
 | 26 | [10819](https://www.acmicpc.net/problem/10819) |   차이를   최대로  |
 | 27 | [10971](https://www.acmicpc.net/problem/10971) |  외판원의   순회2  |
+</details>
+
+### 다시 풀어볼 문제
+<details>
+    <summary>자세히 보기</summary>
+
+| *백준* | *문제번호*| *문제*              |
+|:--:|:-----:|:------------------:|
+|  1 |  [1912](https://www.acmicpc.net/problem/1912) |       연속합       |
+
 </details>
