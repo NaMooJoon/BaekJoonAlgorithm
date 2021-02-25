@@ -1,4 +1,4 @@
-# BeakJoonAlgorithm
+# BaekJoonAlgorithm
 
 여기는 백준 사이트의 알고리즘 문제를 풀어보고 푼 답을 업로드 하는 공간입니다.
 
@@ -55,7 +55,7 @@
 |  1 |  [1463](https://www.acmicpc.net/problem/1463)|           [1로만들기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1463.c)          |
 |  2 |  [1699](https://www.acmicpc.net/problem/1699)|          [제곱수의합](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1699.c)          |
 |  3 |  [1912](https://www.acmicpc.net/problem/1912)|            [연속합](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob1912.c)            |
-|  4 |  [2011](https://www.acmicpc.net/problem/2011)|           암호코드           |
+|  4 |  [2011](https://www.acmicpc.net/problem/2011)|           [암호코드](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2011.c)           |
 |  5 |  [2133](https://www.acmicpc.net/problem/2133)|          타일채우기          |
 |  6 |  [2156](https://www.acmicpc.net/problem/2156)|          포도주시식          |
 |  7 |  [2193](https://www.acmicpc.net/problem/2193)|            이친수            |
