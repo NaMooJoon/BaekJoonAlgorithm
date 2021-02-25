@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define CODE_LEN        5001
+#define CODE_LEN        5002
 
 
 
@@ -32,15 +32,11 @@ int main(void) {
         // 숫자가 1~9일경우
         if(code[i] >= 1 && code[i] <= 9)
             DP[i] = (DP[i] + DP[i-1]) % 1000000;
-        // 숫자가 11~26일경우
+        // 숫자가 10~26일경우
         if(num >= 10 && num <= 26) {
             DP[i] = (DP[i] + DP[i-2]) % 1000000;
         }
-        // 나머지(00 or 30, 40, 50 등등) 성립안됨
-        else if(num == 0 || num % 10 == 0){
-            printf("%d\n", 0);
-            return 0;
-        }
+    
     }
     printf("%d\n", DP[code_len - 1]);
 
