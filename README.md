@@ -242,5 +242,6 @@
 | *백준* | *문제번호*| *문제*              |
 |:--:|:-----:|:------------------:|
 |  1 |  [1912](https://www.acmicpc.net/problem/1912) |       연속합       |
+|  2 |  [2011](https://www.acmicpc.net/problem/2011) |      암호코드     |
 
 </details>
