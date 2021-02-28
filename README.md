@@ -58,7 +58,7 @@
 |  4 |  [2011](https://www.acmicpc.net/problem/2011)|           [암호코드](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2011.c)           |
 |  5 |  [2133](https://www.acmicpc.net/problem/2133)|          [타일채우기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2133.c)          |
 |  6 |  [2156](https://www.acmicpc.net/problem/2156)|          [포도주시식](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2156.c)          |
-|  7 |  [2193](https://www.acmicpc.net/problem/2193)|            이친수            |
+|  7 |  [2193](https://www.acmicpc.net/problem/2193)|            [이친수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2193.c)            |
 |  8 |  [2225](https://www.acmicpc.net/problem/2225)|            합분배            |
 |  9 |  [2579](https://www.acmicpc.net/problem/2579)|          계단오르기          |
 | 10 |  [9095](https://www.acmicpc.net/problem/9095)|          1,2,3더하기         |
