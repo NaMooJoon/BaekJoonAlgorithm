@@ -59,7 +59,7 @@
 |  5 |  [2133](https://www.acmicpc.net/problem/2133)|          [타일채우기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2133.c)          |
 |  6 |  [2156](https://www.acmicpc.net/problem/2156)|          [포도주시식](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2156.c)          |
 |  7 |  [2193](https://www.acmicpc.net/problem/2193)|            [이친수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2193.c)            |
-|  8 |  [2225](https://www.acmicpc.net/problem/2225)|            합분배            |
+|  8 |  [2225](https://www.acmicpc.net/problem/2225)|            [합분배](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2225.c)           |
 |  9 |  [2579](https://www.acmicpc.net/problem/2579)|          계단오르기          |
 | 10 |  [9095](https://www.acmicpc.net/problem/9095)|          1,2,3더하기         |
 | 11 |  [9461](https://www.acmicpc.net/problem/9461)|         파도반   수열        |
