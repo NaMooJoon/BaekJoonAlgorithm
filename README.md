@@ -61,7 +61,7 @@
 |  7 |  [2193](https://www.acmicpc.net/problem/2193)|            [이친수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2193.c)            |
 |  8 |  [2225](https://www.acmicpc.net/problem/2225)|            [합분배](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2225.c)           |
 |  9 |  [2579](https://www.acmicpc.net/problem/2579)|          [계단오르기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob2579.c)         |
-| 10 |  [9095](https://www.acmicpc.net/problem/9095)|          1,2,3더하기         |
+| 10 |  [9095](https://www.acmicpc.net/problem/9095)|          [1,2,3더하기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob9095.c)         |
 | 11 |  [9461](https://www.acmicpc.net/problem/9461)|         파도반   수열        |
 | 12 |  [9465](https://www.acmicpc.net/problem/9465)|            스티커            |
 | 13 | [10844](https://www.acmicpc.net/problem/10844)|        쉬운   계단 수        |
