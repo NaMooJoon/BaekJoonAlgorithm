@@ -68,8 +68,8 @@
 | 14 | [11052](https://www.acmicpc.net/problem/11052)|          [카드   구매](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11052.c)         |
 | 15 | [11053](https://www.acmicpc.net/problem/11053)| 가장   긴 증가하는 부분 수열 |
 | 16 | [11054](https://www.acmicpc.net/problem/11054)| 가장   긴 바이토닉 부분 수열 |
-| 17 | [11055](https://www.acmicpc.net/problem/11055)|   [가장   큰 증가 부분 수열](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11052.c)   |
-| 18 | [11057](https://www.acmicpc.net/problem/11057)|           오르막수           |
+| 17 | [11055](https://www.acmicpc.net/problem/11055)|   [가장   큰 증가 부분 수열](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11055.c)   |
+| 18 | [11057](https://www.acmicpc.net/problem/11057)|           [오르막수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11057.c)           |
 | 19 | [11722](https://www.acmicpc.net/problem/11722)| 가장   긴 감소하는 부분 수열 |
 | 20 | [11726](https://www.acmicpc.net/problem/11726)|             2타일            |
 | 21 | [11727](https://www.acmicpc.net/problem/11727)|             타일             |
@@ -243,5 +243,6 @@
 |:--:|:-----:|:------------------:|
 |  1 |  [1912](https://www.acmicpc.net/problem/1912) |       연속합       |
 |  2 |  [2011](https://www.acmicpc.net/problem/2011) |      암호코드     |
+|  3 | [11053](https://www.acmicpc.net/problem/11053)| 가장   긴 증가하는 부분 수열 |
 
 </details>
