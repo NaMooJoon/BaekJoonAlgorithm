@@ -70,7 +70,7 @@
 | 16 | [11054](https://www.acmicpc.net/problem/11054)| 가장   긴 바이토닉 부분 수열 |
 | 17 | [11055](https://www.acmicpc.net/problem/11055)|   [가장   큰 증가 부분 수열](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11055.c)   |
 | 18 | [11057](https://www.acmicpc.net/problem/11057)|           [오르막수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11057.c)           |
-| 19 | [11722](https://www.acmicpc.net/problem/11722)| 가장   긴 감소하는 부분 수열 |
+| 19 | [11722](https://www.acmicpc.net/problem/11722)| [가장   긴 감소하는 부분 수열](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP/prob11722.c) |
 | 20 | [11726](https://www.acmicpc.net/problem/11726)|             2타일            |
 | 21 | [11727](https://www.acmicpc.net/problem/11727)|             타일             |
 
