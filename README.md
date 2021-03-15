@@ -83,7 +83,7 @@
 | *백준* | *문제번호*| *문제*              |
 |:--:|:-----:|:----------------------:|
 |  1 |  [2751](https://www.acmicpc.net/problem/2751) |      [수열-시간초과](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob2751.c)     |
-|  2 |  [1158](https://www.acmicpc.net/problem/1158)|        요세푸스        |
+|  2 |  [1158](https://www.acmicpc.net/problem/1158)|        [요세푸스](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1158.c)        |
 |  3 |  [1168](https://www.acmicpc.net/problem/1168)|        요세푸스2       |
 |  4 |  [1212](https://www.acmicpc.net/problem/1212)|     8진수를2진수로     |
 |  5 |  [1373](https://www.acmicpc.net/problem/1373)|     2진수를8진수로     |
