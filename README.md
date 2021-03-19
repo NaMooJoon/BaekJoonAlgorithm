@@ -88,7 +88,7 @@
 |  4 |  [1212](https://www.acmicpc.net/problem/1212)|     8진수를2진수로     |
 |  5 |  [1373](https://www.acmicpc.net/problem/1373)|     [2진수를8진수로](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1373.c)     |
 |  6 |  [1406](https://www.acmicpc.net/problem/1406)|         에디터         |
-|  7 |  [1676](https://www.acmicpc.net/problem/1676)|     팩토리얼0의개수    |
+|  7 |  [1676](https://www.acmicpc.net/problem/1676)|     [팩토리얼0의개수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1676.c)    |
 |  8 |  [1850](https://www.acmicpc.net/problem/1850)|   최대공약수-시간초과  |
 |  9 |  [1929](https://www.acmicpc.net/problem/1929)|       소수구하기       |
 | 10 |  [1934](https://www.acmicpc.net/problem/1934)|       최소공배수       |
