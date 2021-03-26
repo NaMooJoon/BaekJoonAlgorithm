@@ -90,7 +90,7 @@
 |  6 |  [1406](https://www.acmicpc.net/problem/1406)|         에디터         |
 |  7 |  [1676](https://www.acmicpc.net/problem/1676)|     [팩토리얼0의개수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1676.c)    |
 |  8 |  [1850](https://www.acmicpc.net/problem/1850)|   최대공약수-시간초과  |
-|  9 |  [1929](https://www.acmicpc.net/problem/1929)|       소수구하기       |
+|  9 |  [1929](https://www.acmicpc.net/problem/1929)|       [소수구하기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1929.c)       |
 | 10 |  [1934](https://www.acmicpc.net/problem/1934)|       최소공배수       |
 | 11 |  [1978](https://www.acmicpc.net/problem/1978)|       소수구하기       |
 | 12 |  [2004](https://www.acmicpc.net/problem/2004)| 조합0의개수-런타임오류 |
