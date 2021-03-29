@@ -123,6 +123,7 @@
 | 39 | [11653](https://www.acmicpc.net/problem/11653)|       소인수분해       |
 | 40 | [11655](https://www.acmicpc.net/problem/11655)|          ROT13         |
 | 41 | [11656](https://www.acmicpc.net/problem/11656)|       접미사배열       |
+| 42 | [11049](https://www.acmicpc.net/problem/11049)|       [행렬곱셈순서](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob11049.c)       |
 
 </details>
 
