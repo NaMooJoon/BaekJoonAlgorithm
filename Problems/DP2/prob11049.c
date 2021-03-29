@@ -3,17 +3,10 @@
 #include <limits.h>
 
 int p_length;
-//int ** m;
-//int ** s;
 
 int m[501][501];
 int s[501][501];
 
-void makeTable(int ** table) {
-    table = (int**)malloc(sizeof(int*) * p_length);
-    for(int i = 0; i < p_length; i++)
-        table[i] = (int*)malloc(sizeof(int) * p_length);
-}
 
 int getMinMatrixChainMutiplication(int * p) {
     int i, j, k, r;
