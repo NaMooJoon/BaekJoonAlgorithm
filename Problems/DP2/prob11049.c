@@ -32,14 +32,14 @@ int getMinMatrixChainMutiplication(int * p) {
         }
     }
     
-    /*
+    
     for(int i = 0; i < matrix_size; i++) {
         for(int j = 0; j < matrix_size; j++) {
             printf("%-3d ", m[i][j]);
         }
         printf("\n");
     }
-    */
+    
     
 
     return m[0][matrix_size - 1];
@@ -64,12 +64,12 @@ int main(void) {
         getchar();
         i++;
     }
-    /*
+    
     printf("P :");
     for(i = 0; i < p_length; i++)
         printf("%d ", p[i]);
     printf("\n");
-    */
+    
 
     printf("%d\n", getMinMatrixChainMutiplication(p));
 
