@@ -92,7 +92,7 @@
 |  8 |  [1850](https://www.acmicpc.net/problem/1850)|   최대공약수-시간초과  |
 |  9 |  [1929](https://www.acmicpc.net/problem/1929)|       [소수구하기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1929.c)       |
 | 10 |  [1934](https://www.acmicpc.net/problem/1934)|       [최소공배수](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1934.c)       |
-| 11 |  [1978](https://www.acmicpc.net/problem/1978)|       소수구하기       |
+| 11 |  [1978](https://www.acmicpc.net/problem/1978)|       [소수구하기](https://github\.com/NaMooJoon/BeakJoonAlgorithm/tree/main/Problems/DP2/prob1978.c)       |
 | 12 |  [2004](https://www.acmicpc.net/problem/2004)| 조합0의개수-런타임오류 |
 | 13 |  [2089](https://www.acmicpc.net/problem/2089)|        2진수출력       |
 | 14 |  [2609](https://www.acmicpc.net/problem/2609)|  최대공약수,최소공배수 |
